@@ -1,5 +1,4 @@
- <h1> flutter Tiktok app Home page </h1>
- 
+ <h1> flutter Tiktok app Home page </h1> 
  
  
  
